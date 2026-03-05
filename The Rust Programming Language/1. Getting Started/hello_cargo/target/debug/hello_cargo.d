@@ -1,0 +1,1 @@
+/run/media/vladev/HDD1/Projects/personal_rust_playground/The\ Rust\ Programming\ Language/1.\ Getting\ Started/hello_cargo/target/debug/hello_cargo: /run/media/vladev/HDD1/Projects/personal_rust_playground/The\ Rust\ Programming\ Language/1.\ Getting\ Started/hello_cargo/src/main.rs
